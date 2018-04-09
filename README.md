@@ -2,7 +2,6 @@
 I have finished 43 / 620 problems in Leetcode.
 
 Step by Step.
-
 One by One.
 
 | # | Title | Python | C | Difficulty | Tag |

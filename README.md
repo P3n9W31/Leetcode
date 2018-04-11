@@ -1,5 +1,5 @@
 # Leetcode
-I have finished 43 / 620 problems in Leetcode.
+I have finished 46 / 620 problems in Leetcode.
 
 Step by Step.
 One by One.
@@ -9,23 +9,30 @@ One by One.
 | 001 | [TwoSum](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%231_TwoSum.py) | To Go | Easy | |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%232_Add%20Two%20Numbers.py) | To Go | Medium | |
 | 003 | [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%233_Longest%20Substring%20Without%20Repeating%20Characters.py) | To Go | Medium | |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%237_Reverse%20Integer.py) | To Go | Easy |  |
+| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%239_Palindrome%20Number.py) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/C/%239_Palindrome%20Number.c) | Easy |  |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2311_Container%20With%20Most%20Water.py) | To Go | Medium |  |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2313_Roman%20to%20Integer.py) | To Go | Easy |  |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2321_Merge%20Two%20Sorted%20Lists.py) | To Go | Easy |  |
 | 026 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2326_RemoveDuplicatesFromSortedArray.py) | To Go | Easy | |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2327_Remove%20Element.py) | To Go | Easy | |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2335_Search%20Insert%20Position.py) | To Go | Easy | |
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2353_Maximum%20Subarray.py) | To Go | Easy | |
 | 066 | [Plus one](https://leetcode.com/problems/plus-one/description/) | [Solution ](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2366_Plus%20one.py)| To Go | Easy | |
+| 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2367_Add%20Binary.py) | To Go | Easy |  |
+| 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2369_Sqrt(x).py) | To Go | Easy |  |
 | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2383_Remove%20Duplicates%20from%20Sorted%20List.py) | To Go | Easy |  |
 | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%2388_Merge%20Sorted%20Array.py) | To Go | Easy | |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23118_Pascal's%20Triangle.py) | To Go | Easy | |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23119_Pascal's%20Triangle%20II.py) | To Go | Easy | |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to buy-and-sell-stock/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | To Go | Easy | |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time to-buy-and-sell-stock-ii/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) | To Go | Easy | |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to%20buy-and-sell-stock/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | To Go | Easy | |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time%20to-buy-and-sell-stock-ii/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) | To Go | Easy | |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23141_Linked%20List%20Cycle.py) | To Go | Easy |  |
-| 160 | [Intersection of Two Linked Lists](160. Intersection of Two Linked Lists) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23160_Intersection%20of%20Two%20Linked%20Lists.py) | To Go | Easy |  |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23160_Intersection%20of%20Two%20Linked%20Lists.py) | To Go | Easy |  |
 | 167 | [Tow Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23167_Tow%20Sum%20II%20-%20Input%20array%20is%20sorted.py) | To Go | Easy | |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23168_Excel%20Sheet%20Column%20Title.py) | To Go | Easy |  |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23169_Majority%20Element.py) | To Go | Easy | |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23171_Excel%20Sheet%20Column%20Number.py) | To Go | Easy |  |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23189_Rotate%20Array.py) | To Go | Easy | |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23203_Remove%20Linked%20List%20Elements.py) | To Go | Easy |  |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](https://github.com/ZhanPwBibiBibi/Leetcode/blob/master/Python/%23206_Reverse%20Linked%20List.py) | To Go | Easy |  |

@@ -78,7 +78,7 @@ One by One.
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23409_Longest%20Palindrome.py) | To Go | Easy | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23412_Fizz%20Buzz.py) | To Go | Easy | |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23414_Third%20Maximum%20Number.py) | To Go | Easy | |
-| 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23415_Add Strings.py) | To Go | Easy | |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23415_Add%20Strings.py) | To Go | Easy | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23443_String%20Compression.py) | To Go | Easy | |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23448_Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | To Go | Easy | |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23455_Assign%20Cookies.py) | To Go | Easy | |
@@ -87,10 +87,10 @@ One by One.
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23463_Island%20Perimeter.py) | To Go | Easy | |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23476_Number%20Complement.py) | To Go | Easy | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23485_Max%20Consecutive%20Ones.py) | To Go | Easy | |
-| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23496_Next%20Greater%20Element I.py) | To Go | Easy | |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23496_Next%20Greater%20Element%20I.py) | To Go | Easy | |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23500_Keyboard%20Row.py) | To Go | Easy | |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23520_Detect%20Capital.py) | To Go | Easy | |
-| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23561_Array%20Partition I.py) | To Go | Easy | |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23561_Array%20Partition%20I.py) | To Go | Easy | |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23566_Reshape%20the%20Matrix.py) | To Go | Easy | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23581_Shortest%20Unsorted%20Continuous%20Subarray.py) | To Go | Easy | |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23605_Can%20Place%20Flowers.py) | To Go | Easy | |

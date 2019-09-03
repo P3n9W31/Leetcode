@@ -90,8 +90,8 @@ One by One.
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23496_Next%20Greater%20Element%20I.py) | To Go | Easy | |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23500_Keyboard%20Row.py) | To Go | Easy | |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23520_Detect%20Capital.py) | To Go | Easy | |
-| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23541_Reverse String II.py) | To Go | Easy | |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23557_Reverse Words in a String III.py) | To Go | Easy | |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23541_Reverse%20String%20II.py) | To Go | Easy | |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23557_Reverse%20Words%20in%20a%20String%20III.py) | To Go | Easy | |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23561_Array%20Partition%20I.py) | To Go | Easy | |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23566_Reshape%20the%20Matrix.py) | To Go | Easy | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23581_Shortest%20Unsorted%20Continuous%20Subarray.py) | To Go | Easy | |
@@ -112,11 +112,11 @@ One by One.
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23830_Positions%20of%20Large%20Groups.py) | To Go | Easy | |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23844_Backspace%20String%20Compare.py) | To Go | Easy | |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23849_Maximize%20Distance%20to%20Closest%20Person.py) | To Go | Easy | |
-| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23860_Lemonade Change.py) | To Go | Easy | |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23860_Lemonade%20Change.py) | To Go | Easy | |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23867_Transpose%20Matrix.py) | To Go | Easy | |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23896_Monotonic%20Array.py) | To Go | Easy | |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23905_Sort%20Array%20By%20Parity.py) | To Go | Easy | |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23929_Unique%20Email%20Addresses.py) | To Go | Easy | |
-| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23944_Delete Columns to Make Sorted.py) | To Go | Easy | |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23944_Delete%20Columns%20to%20Make%20Sorted.py) | To Go | Easy | |
 
 

@@ -72,7 +72,7 @@ One by One.
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23371_Sum%20of%20Two%20Integers.py) | To Go | Easy | |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23374_Guess%20Number%20Higher%20or%20Lower.py) | To Go | Easy | |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23383_Ransom%20Note.py) | To Go | Easy | |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) |  | To Go | Easy | |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23387_First%20Unique%20Character%20in%20a%20String.py) | To Go | Easy | |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23389_Find%20the%20Difference.py) | To Go | Easy | |
 | 400 | [Nth Digit](https://leetcode.com/problems/nth-digit) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23400_Nth%20Digit.py) | To Go | Easy | |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23409_Longest%20Palindrome.py) | To Go | Easy | |
@@ -96,6 +96,7 @@ One by One.
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23566_Reshape%20the%20Matrix.py) | To Go | Easy | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23581_Shortest%20Unsorted%20Continuous%20Subarray.py) | To Go | Easy | |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23605_Can%20Place%20Flowers.py) | To Go | Easy | |
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23622_Design%20Circular%20Queue.py) | To Go | Medium | |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23628_Maximum%20Product%20of%20Three%20Numbers.py) | To Go | Easy | |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23643_Maximum%20Average%20Subarray%20I.py) | To Go | Easy | |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | [Solution](https://github.com/P3n9W31/Leetcode/blob/master/Python/%23657._Robot%20Return%20to%20Origin.py) | To Go | Easy | |
